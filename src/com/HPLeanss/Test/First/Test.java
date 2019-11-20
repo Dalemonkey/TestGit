@@ -45,6 +45,6 @@ public class Test {
 		new Test().test();
 		System.out.println("git test lefe....");
 		System.out.println("git test right....");
-		System.out.printIn("dos add test")
+		System.out.println("dos add test");
 	}
-	
+}
